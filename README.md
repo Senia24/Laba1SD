@@ -1,8 +1,11 @@
 # Лабораторная работа №1: Структура данных
 ## Задание:
 <img width="1156" height="653" alt="image" src="https://github.com/user-attachments/assets/01714c6a-22bc-493c-a4bb-988d1281bbfe" />
+
 ## Реализация:
+
 ### Листинг программы:
+
 ``` c++
 #include <iostream>
 #include <cmath>
@@ -132,7 +135,7 @@ int main() {
     cout << "Автор: Кочаров Арсений Андреевич, группа: 090301-ПОВа-о25" << endl;
     return 0;
 }
-```
 
+```
 ## Результат выполнения программы:
 <img width="571" height="245" alt="image" src="https://github.com/user-attachments/assets/88be072a-3b5f-4463-8ccb-653c9bf53d2d" />
